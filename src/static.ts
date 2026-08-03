@@ -106,10 +106,6 @@ const podcasts = [
   title: 'Trenta minuti',
   path: 'programmi/radio3trentaminuti'
 },
-{
-  title: 'Prima pagina',
-  path: 'programmi/primapagina'
-},
     {
   title: "L'Italia in diretta - Pomeriggio",
   path: 'programmi/litaliaindiretta-pomeriggio'
