@@ -111,7 +111,7 @@ const podcasts = [
   path: 'programmi/primapagina'
 },
     {
-  title: 'L'Italia in diretta - Pomeriggio',
+  title: "L'Italia in diretta - Pomeriggio",
   path: 'programmi/litaliaindiretta-pomeriggio'
 }
 ]
