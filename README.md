@@ -16,6 +16,7 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 | GR3 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/gr3.xml |
 | L'edicola di Radio1 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/ledicoladiradio1.xml |
 | L'idealista | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/lidealista.xml |
+| L'Italia in diretta - Pomeriggio | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/litaliaindiretta-pomeriggio.xml |
 | La musica tra le righe | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/lamusicatralerighe.xml |
 | Lezioni di musica | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/lezionidimusica.xml |
 | Lillo e Greg 610 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/lilloegreg610.xml |
