@@ -708,5 +708,10 @@
     "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr3_audiocut/30137531_1800.mp3",
     "date": "2026-08-16T17:40:00.000Z",
     "resolvedAt": 1786904922147
+  },
+  "ContentItem-ccf73df9-d82c-44c0-b0b7-e0dcb88a5b64": {
+    "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr3_audiocut/30139134_1800.mp3",
+    "date": "2026-08-17T05:38:00.000Z",
+    "resolvedAt": 1786949729923
   }
 }
