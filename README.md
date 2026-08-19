@@ -12,6 +12,7 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 | Eta Beta | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/etabeta.xml |
 | Giro del Mondo in una Coppa | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/girodelmondoinunacoppa.xml |
 | GR Friuli Venezia Giulia | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/grfriuliveneziagiulia.xml |
+| GR Puglia | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/grpuglia.xml |
 | GR1 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/gr1.xml |
 | GR3 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/gr3.xml |
 | L'edicola di Radio1 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/ledicoladiradio1.xml |
@@ -27,6 +28,7 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 | Radio3 Mondo | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/radio3mondo.xml |
 | Radio3 Scienza | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/radio3scienza.xml |
 | Revolution | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/revolution.xml |
+| Sei gradi | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/seigradi.xml |
 | Tra poco in edicola | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/trapocoinedicola.xml |
 | Trenta minuti | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/radio3trentaminuti.xml |
 | Tutta la città ne parla | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/tuttalacittaneparla.xml |
