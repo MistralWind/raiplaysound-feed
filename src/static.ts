@@ -109,6 +109,14 @@ const podcasts = [
   {
     title: "L'Italia in diretta - Pomeriggio",
     path: "programmi/litaliaindiretta-pomeriggio"
+  },
+   {
+    title: "Sei gradi",
+    path: "programmi/seigradi"
+  },
+   {
+    title: "GR Puglia",
+    path: "programmi/grpuglia"
   }
 ]
 
