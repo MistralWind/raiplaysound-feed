@@ -117,6 +117,42 @@ const podcasts = [
    {
     title: "GR Puglia",
     path: "programmi/grpuglia"
+  },
+   {
+    title: "Il concerto del mattino",
+    path: "programmi/ilconcertodelmattino"
+  },
+  {
+    title: "Primo movimento",
+    path: "programmi/primomovimento"
+  },
+  {
+    title: "Battiti",
+    path: "programmi/battiti"
+  },
+    {
+    title: "Body and soul",
+    path: "programmi/bodyandsoul"
+  },
+   {
+    title: "Riverberi",
+    path: "/programmi/riverberi"
+  },
+  {
+    title: "Effetti personali. Musica e piccole storie di chi fa la radio",
+    path: "programmi/effettipersonalimusicaepiccolestoriedichifalaradio"
+  },
+   {
+    title: "Domenica in concerto",
+    path: "programmi/domenicainconcerto"
+  },
+  {
+    title: "I concerti del Quirinale",
+    path: "programmi/iconcertidelquirinale"
+  },
+{
+    title: "Radio3 Suite - Il cartellone",
+    path: "programmi/radio3suite-ilcartellone"
   }
 ]
 
