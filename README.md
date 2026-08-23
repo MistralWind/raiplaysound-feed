@@ -7,44 +7,26 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 
 | Programma | Feed RSS |
 |----------|----------|
-| America7 | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/america7.xml |
 | Battiti | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/battiti.xml |
 | Body and soul | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/bodyandsoul.xml |
-| Detectives - Casi risolti e irrisolti | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/detectives-casirisoltieirrisolti.xml |
+| Classicaradio | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/classicaradio.xml |
 | Domenica in concerto | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/domenicainconcerto.xml |
 | Effetti personali. Musica e piccole storie di chi fa la radio | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/effettipersonalimusicaepiccolestoriedichifalaradio.xml |
 | Eta Beta | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/etabeta.xml |
-| Giro del Mondo in una Coppa | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/girodelmondoinunacoppa.xml |
-| GR Friuli Venezia Giulia | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/grfriuliveneziagiulia.xml |
 | GR Puglia | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/grpuglia.xml |
-| GR1 | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/gr1.xml |
-| GR3 | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/gr3.xml |
 | I concerti del Quirinale | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/iconcertidelquirinale.xml |
 | Il concerto del mattino | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/ilconcertodelmattino.xml |
-| L'edicola di Radio1 | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/ledicoladiradio1.xml |
 | L'idealista | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lidealista.xml |
-| L'Italia in diretta - Pomeriggio | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/litaliaindiretta-pomeriggio.xml |
 | La musica tra le righe | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lamusicatralerighe.xml |
 | La Pennicanza | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lapennicanza.xml |
 | Lezioni di musica | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lezionidimusica.xml |
 | Lillo e Greg 610 | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lilloegreg610.xml |
 | Number Stations - Le radio delle spie | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/numberstations-leradiodellespie.xml |
 | Pillole di Eta Beta | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/pilloledietabeta.xml |
-| Prima Pagina | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/primapagina.xml |
 | Primo movimento | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/primomovimento.xml |
-| Radio anch'io | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/radioanchio.xml |
-| Radio3 Mondo | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/radio3mondo.xml |
-| Radio3 Scienza | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/radio3scienza.xml |
 | Radio3 Suite - Il cartellone | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/radio3suite-ilcartellone.xml |
-| Revolution | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/revolution.xml |
 | Riverberi | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/riverberi.xml |
 | Sei gradi | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/seigradi.xml |
-| Tra poco in edicola | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/trapocoinedicola.xml |
-| Trenta minuti | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/radio3trentaminuti.xml |
-| Tutta la città ne parla | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/tuttalacittaneparla.xml |
-| Un giorno da pecora | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/ungiornodapecora.xml |
-| Wikiradio. Le voci della storia | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/wikiradiolevocidellastoria.xml |
-| Zapping | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/zapping.xml |
 
 ## Audiolibri
 
