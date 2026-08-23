@@ -81,13 +81,7 @@ const podcasts = [
 {
     title: "Radio3 Suite - Il cartellone",
     path: "programmi/radio3suite-ilcartellone"
-  },
-
-{
-    title: "Classicaradio",
-    path: "programmi/classicaradio"
   }
-  
 ]
 
 const audiobooks = [
