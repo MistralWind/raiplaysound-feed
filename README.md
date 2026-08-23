@@ -9,7 +9,6 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 |----------|----------|
 | Battiti | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/battiti.xml |
 | Body and soul | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/bodyandsoul.xml |
-| Classicaradio | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/classicaradio.xml |
 | Domenica in concerto | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/domenicainconcerto.xml |
 | Effetti personali. Musica e piccole storie di chi fa la radio | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/effettipersonalimusicaepiccolestoriedichifalaradio.xml |
 | Eta Beta | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/etabeta.xml |
