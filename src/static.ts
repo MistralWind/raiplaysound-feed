@@ -6,71 +6,15 @@ import { initCache } from "./cache.js"
 const BASE_URL = "https://mistralwind.github.io/raiplaysound-feed"
 
 const podcasts = [
-  {
-    title: "Radio3 Scienza",
-    path: "programmi/radio3scienza"
-  },
-  {
-    title: "Zapping",
-    path: "programmi/zapping"
-  },
-  {
-    title: "GR1",
-    path: "programmi/gr1"
-  },
-  {
-    title: "GR Friuli Venezia Giulia",
-    path: "programmi/grfriuliveneziagiulia"
-  },
-  {
-    title: "Radio anch'io",
-    path: "programmi/radioanchio"
-  },
-  {
-    title: "Radio3 Mondo",
-    path: "programmi/radio3mondo"
-  },
-  {
-    title: "America7",
-    path: "programmi/america7"
-  },
-  {
+    {
     title: "Eta Beta",
     path: "programmi/etabeta"
   },
-  {
-    title: "Detectives - Casi risolti e irrisolti",
-    path: "programmi/detectives-casirisoltieirrisolti"
-  },
-  {
-    title: "L'edicola di Radio1",
-    path: "programmi/ledicoladiradio1"
-  },
-  {
-    title: "Prima Pagina",
-    path: "programmi/primapagina"
-  },
-  {
-    title: "Revolution",
-    path: "programmi/revolution"
-  },
-  {
-    title: "Tutta la città ne parla",
-    path: "programmi/tuttalacittaneparla"
-  },
-  {
-    title: "Tra poco in edicola",
-    path: "programmi/trapocoinedicola"
-  },
-  {
+   {
     title: "Lillo e Greg 610",
     path: "programmi/lilloegreg610"
   },
-  {
-    title: "Un giorno da pecora",
-    path: "programmi/ungiornodapecora"
-  },
-  {
+   {
     title: "Number Stations - Le radio delle spie",
     path: "programmi/numberstations-leradiodellespie"
   },
@@ -78,15 +22,7 @@ const podcasts = [
     title: "Pillole di Eta Beta",
     path: "programmi/pilloledietabeta"
   },
-  {
-    title: "GR3",
-    path: "programmi/gr3"
-  },
-  {
-    title: "Wikiradio. Le voci della storia",
-    path: "programmi/wikiradiolevocidellastoria"
-  },
-  {
+    {
     title: "L'idealista",
     path: "programmi/lidealista"
   },
@@ -94,21 +30,9 @@ const podcasts = [
     title: "La musica tra le righe",
     path: "programmi/lamusicatralerighe"
   },
-  {
-    title: "Giro del Mondo in una Coppa",
-    path: "programmi/girodelmondoinunacoppa"
-  },
-  {
+    {
     title: "Lezioni di musica",
     path: "programmi/lezionidimusica"
-  },
-  {
-    title: "Trenta minuti",
-    path: "programmi/radio3trentaminuti"
-  },
-  {
-    title: "L'Italia in diretta - Pomeriggio",
-    path: "programmi/litaliaindiretta-pomeriggio"
   },
    {
     title: "Sei gradi",
@@ -157,7 +81,13 @@ const podcasts = [
 {
     title: "Radio3 Suite - Il cartellone",
     path: "programmi/radio3suite-ilcartellone"
+  },
+
+{
+    title: "Classicaradio",
+    path: "programmi/classicaradio"
   }
+  
 ]
 
 const audiobooks = [
