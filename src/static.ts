@@ -97,6 +97,30 @@ const podcasts = [
  {
     title: "Musical Box",
     path: "programmi/musicalbox"
+  },
+{
+    title: "Qualcosa di Miles",
+    path: "programmi/qualcosadimiles"
+  },
+{
+    title: "La musica spiegata ai miei figli - Stagione 1",
+    path: "programmi/lamusicaspiegataaimieifigli/puntate/stagione-i"
+  },
+{
+    title: "La musica spiegata ai miei figli - Stagione 2",
+    path: "programmi/lamusicaspiegataaimieifigli"
+  },
+{
+    title: "Lezioni di musica 2025",
+    path: "programmi/lezionidimusica/puntate/2025"
+  },
+{
+    title: "Omaggio a Piero Piccioni",
+    path: "programmi/omaggioapieropiccioni-gerardodilellabigband"
+  },
+{
+    title: "Body and soul - extra",
+    path: "programmi/bodyandsoul/extra"
   }
 ]
 
