@@ -21,10 +21,9 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 | La musica tra le righe | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lamusicatralerighe.xml |
 | La Pennicanza | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lapennicanza.xml |
 | Le parole di Beethoven | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/leparoledibeethoven.xml |
-| Le parole di Beethoven | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/leparoledibeethoven.xml |
 | Lezioni di musica | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lezionidimusica.xml |
 | Lillo e Greg 610 | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lilloegreg610.xml |
-| Musical Box | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/Musical Box.xml |
+| Musical Box | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/musicalbox.xml |
 | Number Stations - Le radio delle spie | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/numberstations-leradiodellespie.xml |
 | Pillole di Eta Beta | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/pilloledietabeta.xml |
 | Primo movimento | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/primomovimento.xml |
