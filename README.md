@@ -12,14 +12,19 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 | Domenica in concerto | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/domenicainconcerto.xml |
 | Effetti personali. Musica e piccole storie di chi fa la radio | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/effettipersonalimusicaepiccolestoriedichifalaradio.xml |
 | Eta Beta | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/etabeta.xml |
+| File urbani | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/fileurbani.xml |
 | GR Puglia | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/grpuglia.xml |
 | I concerti del Quirinale | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/iconcertidelquirinale.xml |
 | Il concerto del mattino | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/ilconcertodelmattino.xml |
 | L'idealista | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lidealista.xml |
+| La grande radio | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lagranderadio.xml |
 | La musica tra le righe | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lamusicatralerighe.xml |
 | La Pennicanza | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lapennicanza.xml |
+| Le parole di Beethoven | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/leparoledibeethoven.xml |
+| Le parole di Beethoven | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/leparoledibeethoven.xml |
 | Lezioni di musica | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lezionidimusica.xml |
 | Lillo e Greg 610 | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lilloegreg610.xml |
+| Musical Box | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/Musical Box.xml |
 | Number Stations - Le radio delle spie | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/numberstations-leradiodellespie.xml |
 | Pillole di Eta Beta | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/pilloledietabeta.xml |
 | Primo movimento | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/primomovimento.xml |
