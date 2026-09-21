@@ -9,6 +9,7 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 |----------|----------|
 | Battiti | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/battiti.xml |
 | Body and soul | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/bodyandsoul.xml |
+| Body and soul - extra | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/bodyandsoul/extra.xml |
 | Domenica in concerto | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/domenicainconcerto.xml |
 | Effetti personali. Musica e piccole storie di chi fa la radio | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/effettipersonalimusicaepiccolestoriedichifalaradio.xml |
 | Eta Beta | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/etabeta.xml |
@@ -18,15 +19,20 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 | Il concerto del mattino | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/ilconcertodelmattino.xml |
 | L'idealista | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lidealista.xml |
 | La grande radio | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lagranderadio.xml |
+| La musica spiegata ai miei figli - Stagione 1 | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lamusicaspiegataaimieifigli/puntate/stagione-i.xml |
+| La musica spiegata ai miei figli - Stagione 2 | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lamusicaspiegataaimieifigli.xml |
 | La musica tra le righe | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lamusicatralerighe.xml |
 | La Pennicanza | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lapennicanza.xml |
 | Le parole di Beethoven | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/leparoledibeethoven.xml |
 | Lezioni di musica | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lezionidimusica.xml |
+| Lezioni di musica 2025 | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lezionidimusica/puntate/2025.xml |
 | Lillo e Greg 610 | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lilloegreg610.xml |
 | Musical Box | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/musicalbox.xml |
 | Number Stations - Le radio delle spie | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/numberstations-leradiodellespie.xml |
+| Omaggio a Piero Piccioni | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/omaggioapieropiccioni-gerardodilellabigband.xml |
 | Pillole di Eta Beta | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/pilloledietabeta.xml |
 | Primo movimento | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/primomovimento.xml |
+| Qualcosa di Miles | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/qualcosadimiles.xml |
 | Radio3 Suite - Il cartellone | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/radio3suite-ilcartellone.xml |
 | Riverberi | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/riverberi.xml |
 | Sei gradi | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/seigradi.xml |
