@@ -87,10 +87,6 @@ const podcasts = [
     path: "programmi/leparoledibeethoven"
   },
 {
-    title: "Le parole di Beethoven",
-    path: "programmi/leparoledibeethoven"
-  },
-{
     title: "File urbani",
     path: "programmi/fileurbani"
   },
@@ -100,7 +96,7 @@ const podcasts = [
   },
  {
     title: "Musical Box",
-    path: "programmi/Musical Box"
+    path: "programmi/musicalbox"
   }
 ]
 
