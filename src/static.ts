@@ -104,7 +104,7 @@ const podcasts = [
   },
 {
     title: "La musica spiegata ai miei figli - Stagione 1",
-    path: "programmi/lamusicaspiegataaimieifigli/puntate/stagione-i"
+    path: "programmi/lamusicaspiegataaimieifigli/ContentSet-a9b0dcc6-4a1f-4b5f-9d89-6e6af12f60c6"
   },
 {
     title: "La musica spiegata ai miei figli - Stagione 2",
