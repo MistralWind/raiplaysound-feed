@@ -19,7 +19,7 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 | Il concerto del mattino | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/ilconcertodelmattino.xml |
 | L'idealista | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lidealista.xml |
 | La grande radio | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lagranderadio.xml |
-| La musica spiegata ai miei figli - Stagione 1 | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lamusicaspiegataaimieifigli/puntate/stagione-i.xml |
+| La musica spiegata ai miei figli - Stagione 1 | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lamusicaspiegataaimieifigli/ContentSet-a9b0dcc6-4a1f-4b5f-9d89-6e6af12f60c6.xml |
 | La musica spiegata ai miei figli - Stagione 2 | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lamusicaspiegataaimieifigli.xml |
 | La musica tra le righe | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lamusicatralerighe.xml |
 | La Pennicanza | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lapennicanza.xml |
