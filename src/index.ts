@@ -25,11 +25,11 @@ await fastify.register(rateLimit, {
 await initCache()
 buildAll()
 
- fastify.get<{ Params: { '*': string } }>( 
-    '/rss/*', 
-    async (req, reply) => {
-    const wildcard = req.params['*'] if (!wildcard.endsWith('.xml')) { reply.code(404).send() return } 
-    const program = wildcard.slice(0, -4) const xml = await buildFeed(program)                                               
+fastify.get<{ Params: { type: string; name: string } }>(
+  '/rss/:type/:name.xml',
+  async (req, reply) => {
+    const program = `${req.params.type}/${req.params.name}`
+    const xml = await buildFeed(program)        
                                                                              
     const lastModified = getModifiedStatus(program)
 
