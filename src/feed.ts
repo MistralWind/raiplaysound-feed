@@ -59,13 +59,13 @@ async function buildFeed(program: string, forceRefresh: boolean = false) {
 
   let modified = false
 
-  const feed = new Feed({
-    title: data.podcast_info.title,
-    description: data.podcast_info.description,
-    id: BASE + data.podcast_info.weblink,
-    link: BASE + data.podcast_info.weblink,
-    language: 'it',
-    image: BASE + data.podcast_info.image,
+
+
+const url = `${BASE}/${program}.json` const [data, cache] = await Promise.all([ fetchT(url).then(r => r.json()), readCache(program) ]) let podcastInfo = data.podcast_info if (!podcastInfo) { const parentProgram = program.split('/').slice(0, -1).join('/') const parentUrl = `${BASE}/${parentProgram}.json` const parentData = await fetchT(parentUrl).then(r => r.json()) podcastInfo = parentData.podcast_info } let modified = false const feed = new Feed({ title: podcastInfo.title, description: podcastInfo.description, id: BASE + podcastInfo.weblink, link: BASE + podcastInfo.weblink, language: 'it', image: BASE + podcastInfo.image,
+
+ 
+
+    
     updated: new Date(),
     generator: 'https://github.com/giuliomagnifico/raiplaysound-feed',
     feed: `https://giuliomagnifico.github.io/raiplaysound-feed/rss/${program}.xml`,
