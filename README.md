@@ -23,6 +23,7 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 | La musica spiegata ai miei figli - Stagione 2 | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lamusicaspiegataaimieifigli.xml |
 | La musica tra le righe | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lamusicatralerighe.xml |
 | La Pennicanza | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lapennicanza.xml |
+| La stanza della musica | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lastanzadellamusica.xml |
 | Le parole di Beethoven | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/leparoledibeethoven.xml |
 | Lezioni di musica | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lezionidimusica.xml |
 | Lezioni di musica 2025 | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/lezionidimusica/puntate/2025.xml |
@@ -34,8 +35,11 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 | Primo movimento | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/primomovimento.xml |
 | Qualcosa di Miles | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/qualcosadimiles.xml |
 | Radio3 Suite - Il cartellone | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/radio3suite-ilcartellone.xml |
+| Revolution | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/revolution.xml |
 | Riverberi | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/riverberi.xml |
+| Sabato in concerto | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/sabatoinconcerto.xml |
 | Sei gradi | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/seigradi.xml |
+| Suona l'una | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/suonaluna.xml |
 
 ## Audiolibri
 
