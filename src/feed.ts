@@ -61,8 +61,8 @@ async function buildFeed(program: string, forceRefresh: boolean = false) {
 
 
 
-const url = `${BASE}/${program}.json` const [data, cache] = await Promise.all([ fetchT(url).then(r => r.json()), readCache(program) ]) let podcastInfo = data.podcast_info if (!podcastInfo) { const parentProgram = program.split('/').slice(0, -1).join('/') const parentUrl = `${BASE}/${parentProgram}.json` const parentData = await fetchT(parentUrl).then(r => r.json()) podcastInfo = parentData.podcast_info } let modified = false const feed = new Feed({ title: podcastInfo.title, description: podcastInfo.description, id: BASE + podcastInfo.weblink, link: BASE + podcastInfo.weblink, language: 'it', image: BASE + podcastInfo.image,
-
+const url = `${BASE}/${program}.json`; const [data, cache] = await Promise.all([ fetchT(url).then(r => r.json()), readCache(program) ]); let podcastInfo = data.podcast_info; if (!podcastInfo) { const parentProgram = program.split('/').slice(0, -1).join('/'); const parentUrl = `${BASE}/${parentProgram}.json`; const parentData = await fetchT(parentUrl).then(r => r.json()); podcastInfo = parentData.podcast_info; } let modified = false; const feed = new Feed({ title: podcastInfo.title, description: podcastInfo.description, id: BASE + podcastInfo.weblink, link: BASE + podcastInfo.weblink, language: 'it', image: BASE + podcastInfo.image,
+                                                                                                    
  
 
     
