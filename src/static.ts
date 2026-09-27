@@ -7,6 +7,22 @@ const BASE_URL = "https://mistralwind.github.io/raiplaysound-feed"
 
 const podcasts = [
     {
+    title: "La stanza della musica",
+    path: "programmi/lastanzadellamusica"
+  },
+    {
+    title: "Sabato in concerto",
+    path: "programmi/sabatoinconcerto"
+  },
+    {
+    title: "Revolution",
+    path: "programmi/revolution"
+  },
+        {
+    title: "Suona l'una",
+    path: "programmi/suonaluna"
+  },
+   {
     title: "Eta Beta",
     path: "programmi/etabeta"
   },
