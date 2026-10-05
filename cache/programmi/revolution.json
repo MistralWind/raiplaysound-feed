@@ -998,5 +998,10 @@
     "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut_Revolution/30484543_1800.mp3",
     "date": "2026-10-02T18:01:00.000Z",
     "resolvedAt": 1790973996219
+  },
+  "ContentItem-c0ab48dc-7dc4-42a3-ae0a-a3843ccc23b1": {
+    "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut_Revolution/30507388_1800.mp3",
+    "date": "2026-10-05T18:01:00.000Z",
+    "resolvedAt": 1791224977546
   }
 }
