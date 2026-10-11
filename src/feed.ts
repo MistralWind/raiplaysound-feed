@@ -115,8 +115,19 @@ async function buildFeed(program: string, forceRefresh: boolean = false) {
           resolvedAt: now
         }
       }
-    } catch (err) {
+     } catch (err) {
   error(program, `${ep.title} / ${ep.episode_title}: ${(err as Error).message}`)
+
+  // Se la puntata è nuova e non si riesce a ricavare l'mp3,
+  // la inseriamo comunque col link originale di Rai
+  if (!cache[id]) {
+    cache[id] = {
+      mp3: ep.downloadable_audio?.url ?? ep.audio.url,
+      date: parseDate(ep.track_info.date, ep.create_time),
+      resolvedAt: 0
+    }
+    modified = true
+  }
 }
 
     currentEps.add(id)
