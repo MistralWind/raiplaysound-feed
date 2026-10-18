@@ -1,10 +1,29 @@
 name: Generate Feeds
 
 on:
+  # Permette di lanciare il workflow a mano dal pulsante "Run workflow"
   workflow_dispatch:
-  schedule:
-    - cron: "45 * * * *"
 
+  schedule:
+    # --- Orari attuali (ora legale, UTC+2; GitHub usa l'ora UTC) ---
+    - cron: "30 6 * * *"    # 08:30
+    - cron: "5 10 * * *"    # 12:05
+    - cron: "30 13 * * *"   # 15:30
+    - cron: "15 17 * * *"   # 19:15
+    - cron: "5 19 * * *"    # 21:05
+
+    # --- Promemoria: aggiornamento ogni ora (al minuto 45) ---
+    # Per tornare indietro: cancella il "#" davanti alla riga qui sotto
+    # e metti il "#" davanti alle cinque righe sopra.
+    # - cron: "45 * * * *"
+
+    # --- Promemoria: gli stessi orari in ora solare (UTC+1), dal 25 ottobre ---
+    # - cron: "30 7 * * *"    # 08:30
+    # - cron: "5 11 * * *"    # 12:05
+    # - cron: "30 14 * * *"   # 15:30
+    # - cron: "15 18 * * *"   # 19:15
+    # - cron: "5 20 * * *"    # 21:05
+    
 permissions:
   contents: write
   pages: write
