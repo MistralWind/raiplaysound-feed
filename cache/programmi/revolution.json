@@ -1003,5 +1003,10 @@
     "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut_Revolution/30645559_1800.mp3",
     "date": "2026-10-21T17:59:00.000Z",
     "resolvedAt": 1792606178861
+  },
+  "ContentItem-b7f2cdf9-d06a-4fb9-823f-b6b9d6babb54": {
+    "mp3": "https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=AcNZnZrVIDFohehxijfAsQeeqqEEqualeeqqEEqual",
+    "date": "2026-10-22T18:00:00.000Z",
+    "resolvedAt": 0
   }
 }
