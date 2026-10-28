@@ -1,9 +1,4 @@
 {
-  "ContentItem-bfdf928c-4936-4d87-80e5-ef0f5cba9d7a": {
-    "mp3": "https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=d26lkssSlashsJrqO3MXRc42vYXweeqqEEqualeeqqEEqual",
-    "date": "2026-10-17T05:44:00.000Z",
-    "resolvedAt": 0
-  },
   "ContentItem-dbebd51e-509c-45ef-970c-ad827e8dbd1e": {
     "mp3": "https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=BB3pLpPpPlussmOKgpwF5ccNrPZpPpPlussAeeqqEEqualeeqqEEqual",
     "date": "2026-10-18T05:21:00.000Z",
@@ -47,6 +42,11 @@
   "ContentItem-8efe82b6-c799-4255-ad51-eb60b20115df": {
     "mp3": "https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=PlssSlashyWzGeNYsxtTssSlashu71ydxgeeqqEEqualeeqqEEqual",
     "date": "2026-10-26T05:32:00.000Z",
+    "resolvedAt": 0
+  },
+  "ContentItem-271d5498-2152-4e77-a758-5fd7c8f43ef5": {
+    "mp3": "https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=w6PanzjoIjopPpPlussssSlashYcNkUxHEQeeqqEEqualeeqqEEqual",
+    "date": "2026-10-27T06:42:00.000Z",
     "resolvedAt": 0
   }
 }
