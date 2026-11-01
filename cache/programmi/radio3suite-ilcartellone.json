@@ -1,9 +1,4 @@
 {
-  "ContentItem-635653f2-10a9-4eb0-8642-8f2ab74fa3e3": {
-    "mp3": "https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=tpPpPluss3g52GqOGooHTf73lN2YweeqqEEqualeeqqEEqual",
-    "date": "2026-10-21T05:38:00.000Z",
-    "resolvedAt": 0
-  },
   "ContentItem-1d93ed8f-7417-47f0-8945-d318216aada0": {
     "mp3": "https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=A3JFOz5wrrqMVH6kskmRnAeeqqEEqualeeqqEEqual",
     "date": "2026-10-22T05:41:00.000Z",
@@ -38,5 +33,15 @@
     "mp3": "https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FKMjCwjFqMUau98A86aDssSlashAeeqqEEqualeeqqEEqual",
     "date": "2026-10-29T07:01:00.000Z",
     "resolvedAt": 0
+  },
+  "ContentItem-176304a4-14f2-4a6a-bf5a-e206383df6e8": {
+    "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/30729611_1800.mp3",
+    "date": "2026-10-31T08:41:00.000Z",
+    "resolvedAt": 1793540681956
+  },
+  "ContentItem-f65a7b36-fffe-4fe7-847e-bbc95480042d": {
+    "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/30722809_1800.mp3",
+    "date": "2026-10-30T11:17:00.000Z",
+    "resolvedAt": 1793540682660
   }
 }
