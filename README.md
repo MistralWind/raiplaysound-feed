@@ -35,6 +35,8 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 | Primo movimento | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/primomovimento.xml |
 | Qualcosa di Miles | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/qualcosadimiles.xml |
 | Radio3 Suite - Il cartellone | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/radio3suite-ilcartellone.xml |
+| Radio3 Suite - Magazine | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/radio3suite/puntate/magazine.xml |
+| Radio3 Suite - Panorama | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/radio3suite/puntate/panorama.xml |
 | Revolution | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/revolution.xml |
 | Riverberi | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/riverberi.xml |
 | Sabato in concerto | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/sabatoinconcerto.xml |
