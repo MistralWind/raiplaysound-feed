@@ -98,21 +98,14 @@ const podcasts = [
     title: "Radio3 Suite - Il cartellone",
     path: "programmi/radio3suite-ilcartellone"
   },
-
-
-{
-    title: "Radio3 Suite - Il cartellone",
-    path: "programmi/radio3suite-ilcartellone"
-  },
 {
     title: "Radio3 Suite - Magazine",
     path: "programmi/radio3suite/puntate/magazine"
   },
 {
     title: "Radio3 Suite - Panorama",
-    path: "programmi/radio3suite/puntate/panorama
-  },
-   
+    path: "programmi/radio3suite/puntate/panorama"
+  }, 
 {
     title: "Le parole di Beethoven",
     path: "programmi/leparoledibeethoven"
