@@ -223,5 +223,15 @@
     "mp3": "https://creativemedia8-rai-it.akamaized.net/podcastcdn/GRRegionali_mp3/GRR_Puglia_mp3/30735859.mp3",
     "date": "2026-11-02T07:12:00.000Z",
     "resolvedAt": 1793617841392
+  },
+  "ContentItem-925ff238-fdf6-4e78-8ad2-7f74e65d3159": {
+    "mp3": "https://creativemedia8-rai-it.akamaized.net/podcastcdn/GRRegionali_mp3/GRR_Puglia_mp3/30746739.mp3",
+    "date": "2026-11-03T12:08:00.000Z",
+    "resolvedAt": 1793710981396
+  },
+  "ContentItem-b34b4743-d475-416e-a722-c39778dd9cd4": {
+    "mp3": "https://creativemedia8-rai-it.akamaized.net/podcastcdn/GRRegionali_mp3/GRR_Puglia_mp3/30744742.mp3",
+    "date": "2026-11-03T07:28:00.000Z",
+    "resolvedAt": 1793710982157
   }
 }
