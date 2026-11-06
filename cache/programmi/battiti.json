@@ -1615,9 +1615,9 @@
     "resolvedAt": 1793890481240
   },
   "ContentItem-b859afc8-d101-4422-be59-ec275139ca21": {
-    "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/30420380_1800.mp3",
+    "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/30420380_1800.mp3",
     "date": "2026-09-25T06:00:00.000Z",
-    "resolvedAt": 1792756728498
+    "resolvedAt": 1793975681412
   },
   "ContentItem-667f2877-1fd4-4eb1-9f22-1638a92bc8f7": {
     "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/30429473_1800.mp3",
@@ -1687,7 +1687,7 @@
   "ContentItem-2c3ef542-73ae-439e-96c9-ea1652c302a6": {
     "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/30537193_1800.mp3",
     "date": "2026-10-09T05:27:00.000Z",
-    "resolvedAt": 1792756727756
+    "resolvedAt": 1793975680652
   },
   "ContentItem-d62e8b46-a4a9-4b88-986a-df6deea70c6b": {
     "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/30547374_1800.mp3",
@@ -1755,9 +1755,9 @@
     "resolvedAt": 1793890479394
   },
   "ContentItem-1f9f156b-fd41-4d9f-9faa-bfe4d968c9c6": {
-    "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/30656768_1800.mp3",
+    "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/30656768_1800.mp3",
     "date": "2026-10-23T06:04:00.000Z",
-    "resolvedAt": 1792756726990
+    "resolvedAt": 1793975679866
   },
   "ContentItem-67fa8bee-8109-4a08-aefc-0c9bdcca9e43": {
     "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/30666026_1800.mp3",
@@ -1823,5 +1823,10 @@
     "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/30763192_1800.mp3",
     "date": "2026-11-05T06:56:00.000Z",
     "resolvedAt": 1793890478502
+  },
+  "ContentItem-a1de359c-3db4-44d4-bf6d-b1cab98040a0": {
+    "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/30771968_1800.mp3",
+    "date": "2026-11-06T06:34:00.000Z",
+    "resolvedAt": 1793975678813
   }
 }
