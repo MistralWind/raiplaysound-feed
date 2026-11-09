@@ -4,11 +4,6 @@
     "date": "2026-10-29T07:03:00.000Z",
     "resolvedAt": 0
   },
-  "ContentItem-bac5f91c-487b-4e4f-acaa-47b8fcc595fb": {
-    "mp3": "https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FKMjCwjFqMUau98A86aDssSlashAeeqqEEqualeeqqEEqual",
-    "date": "2026-10-29T07:01:00.000Z",
-    "resolvedAt": 0
-  },
   "ContentItem-176304a4-14f2-4a6a-bf5a-e206383df6e8": {
     "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/30729611_1800.mp3",
     "date": "2026-10-31T08:41:00.000Z",
@@ -57,6 +52,11 @@
   "ContentItem-35096879-3a42-458c-a102-6d64d9b62014": {
     "mp3": "https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=92WE1PYxlXJCJu5dSqfDRweeqqEEqualeeqqEEqual",
     "date": "2026-11-07T06:21:00.000Z",
+    "resolvedAt": 0
+  },
+  "ContentItem-861426c3-24d6-47c8-92af-c4d6da655a75": {
+    "mp3": "https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Qssgs6THdzpdQ62nrvpKZweeqqEEqualeeqqEEqual",
+    "date": "2026-11-08T06:37:00.000Z",
     "resolvedAt": 0
   }
 }
