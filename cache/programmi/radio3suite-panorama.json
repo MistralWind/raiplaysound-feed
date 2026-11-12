@@ -1813,5 +1813,10 @@
     "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/30819121_1800.mp3",
     "date": "2026-11-11T19:37:00.000Z",
     "resolvedAt": 1794428449304
+  },
+  "ContentItem-33fb3a54-9589-416b-bb7e-f4bc9b7d5d66": {
+    "mp3": "https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=aUlL8eK4SxdOGhCMhA7DAgeeqqEEqualeeqqEEqual",
+    "date": "2026-11-12T19:38:00.000Z",
+    "resolvedAt": 0
   }
 }
