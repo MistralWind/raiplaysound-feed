@@ -145,8 +145,12 @@ const podcasts = [
 {
     title: "Body and soul - extra",
     path: "programmi/bodyandsoul/extra"
+  },
+{
+    title: "Body and soul - extra",
+    path: "programmi/radio2unaltranotte"
   }
-]
+   ]
 
 const audiobooks = [
   {
