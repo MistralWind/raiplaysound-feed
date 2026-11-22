@@ -147,7 +147,7 @@ const podcasts = [
     path: "programmi/bodyandsoul/extra"
   },
 {
-    title: "Body and soul - extra",
+    title: "Radio2 - Un'altra notte",
     path: "programmi/radio2unaltranotte"
   }
    ]
