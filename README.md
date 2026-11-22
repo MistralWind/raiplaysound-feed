@@ -10,7 +10,6 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 | Battiti | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/battiti.xml |
 | Body and soul | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/bodyandsoul.xml |
 | Body and soul - extra | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/bodyandsoul/extra.xml |
-| Body and soul - extra | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/radio2unaltranotte.xml |
 | Domenica in concerto | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/domenicainconcerto.xml |
 | Effetti personali. Musica e piccole storie di chi fa la radio | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/effettipersonalimusicaepiccolestoriedichifalaradio.xml |
 | Eta Beta | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/etabeta.xml |
@@ -35,6 +34,7 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 | Pillole di Eta Beta | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/pilloledietabeta.xml |
 | Primo movimento | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/primomovimento.xml |
 | Qualcosa di Miles | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/qualcosadimiles.xml |
+| Radio2 - Un'altra Notte | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/radio2unaltranotte.xml |
 | Radio3 Suite - Il cartellone | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/radio3suite-ilcartellone.xml |
 | Radio3 Suite - Magazine | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/radio3suite-magazine.xml |
 | Radio3 Suite - Panorama | https://mistralwind.github.io/raiplaysound-feed/rss/programmi/radio3suite-panorama.xml |
