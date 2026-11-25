@@ -3,5 +3,15 @@
     "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/30909423_1800.mp3",
     "date": "2026-11-23T12:51:00.000Z",
     "resolvedAt": 1795458875739
+  },
+  "ContentItem-bfde8fb1-f1bf-4572-9d1c-bbe7137887d3": {
+    "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/30928327_1800.mp3",
+    "date": "2026-11-25T12:56:00.000Z",
+    "resolvedAt": 1795627727297
+  },
+  "ContentItem-24bcf4cb-3665-4b0f-9632-954e8786cdbf": {
+    "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/30918484_1800.mp3",
+    "date": "2026-11-24T13:09:00.000Z",
+    "resolvedAt": 1795627728140
   }
 }
